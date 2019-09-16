@@ -1,0 +1,9 @@
+[submodule "singularity-matlabmcr2019a"]
+	path = singularity-matlabmcr2019a
+	url = git@github.com:icaoberg/singularity-matlabmcr2019a.git
+[submodule "docker-matlabmcr2019a"]
+	path = docker-matlabmcr2019a
+	url = git@github.com:icaoberg/docker-matlabmcr2019a.git
+[submodule "docker-matlabmcr2019b"]
+	path = docker-matlabmcr2019b
+	url = git@github.com:icaoberg/docker-matlabmcr2019b.git
