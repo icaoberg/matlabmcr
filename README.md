@@ -1,4 +1,6 @@
-# matlabmcr
+# Mathworks Matlab MCR
+
+![Logo](https://blogs.mathworks.com/images/cleve/logo_L42.png)
 
 | Matlab MCR version | Docker source code | Docker image | Singularity source code | Singularity image |
 |--------------------|--------------------|--------------|-------------------------|-------------------|
