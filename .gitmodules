@@ -10,3 +10,12 @@
 [submodule "singularity-matlabmcr2019b"]
 	path = singularity-matlabmcr2019b
 	url = https://github.com/icaoberg/singularity-matlabmcr2019b.git
+[submodule "docker-matlabmcr2018b"]
+	path = docker-matlabmcr2018b
+	url = https://github.com/icaoberg/docker-matlabmcr2018b.git
+[submodule "docker-matlabmcr2018a"]
+	path = docker-matlabmcr2018a
+	url = https://github.com/icaoberg/docker-matlabmcr2018a.git
+[submodule "docker-matlabmcr2017a"]
+	path = docker-matlabmcr2017a
+	url = https://github.com/icaoberg/docker-matlabmcr2017a.git
