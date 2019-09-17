@@ -7,3 +7,6 @@
 [submodule "docker-matlabmcr2019b"]
 	path = docker-matlabmcr2019b
 	url = git@github.com:icaoberg/docker-matlabmcr2019b.git
+[submodule "singularity-matlabmcr2019b"]
+	path = singularity-matlabmcr2019b
+	url = https://github.com/icaoberg/singularity-matlabmcr2019b.git
