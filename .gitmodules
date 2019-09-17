@@ -19,3 +19,9 @@
 [submodule "docker-matlabmcr2017a"]
 	path = docker-matlabmcr2017a
 	url = https://github.com/icaoberg/docker-matlabmcr2017a.git
+[submodule "singularity-matlabmcr2018a"]
+	path = singularity-matlabmcr2018a
+	url = git@github.com:icaoberg/singularity-matlabmcr2018a.git
+[submodule "singularity-matlabmcr2018b"]
+	path = singularity-matlabmcr2018b
+	url = git@github.com:icaoberg/singularity-matlabmcr2018b.git
